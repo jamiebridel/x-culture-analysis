@@ -1,0 +1,40 @@
+{
+    "hedges": [
+      "maybe", "perhaps", "possibly", "i think", "i guess", "sort of", "kind of",
+      "loosely speaking", "generally", "apparently", "seem", "seems", "seem to", 
+      "appear", "appears", "appear to", "roughly", "approximately", "nearly", "mostly",
+      "around", "somewhat", "relatively", "apparently", "presumably", "likely",
+      "at least", "I believe", "I feel", "I suppose", "I imagine", "I wonder",
+      "seems like", "just", "only", "almost", "rather", "to some extent", 
+      "suggest", "may", "might", "could"
+    ],
+    "apologies": [
+        "appreciate", "apologies", "apologize", "excuse me", "if possible",
+        "mea culpa", "my bad", "oops", "pardon", "pardon me", "please", "regret",
+        "sorry", "thank you", "thanks", "would you mind"
+    ],
+    "task_words": [
+        "analyze", "approach", "argument", "challenge", "consider", "data",
+        "decision", "discuss", "efficiency", "evaluate", "evidence", "feedback",
+        "framework", "goal", "idea", "improve", "information", "method", "objective",
+        "option", "outcome", "plan", "problem", "project", "propose", "report",
+        "resource", "result", "solution", "strategy", "suggest", "task"
+    ],
+    "rel_words": [
+        "aggressive", "angry", "annoyed", "annoying", "attack", "biased", "blame",
+        "conflict", "criticize", "defensive", "demotivated", "disagree", "dispute",
+        "disrespect", "do not care", "don't care", "frustrated", "harsh", "hate", 
+        "hostile", "irresponsible", "incompetent", "ignorant", "lazy", "misunderstand",
+        "offensive", "patronizing", "resentment", "rude", "sarcastic", "selfish",
+        "stupid", "tension", "uncooperative", "unfair", "unjust", "unprofessional",
+        "upset"
+    ],
+    "insight_words": [
+        "aware", "consider",  "discover", "know", "learn",  "realize", 
+        "recognize", "think", "understand"
+    ],
+    "causation_words": [
+        "as a result", "because", "consequently",  "hence",  "so",
+        "therefore", "thus"
+    ]
+}

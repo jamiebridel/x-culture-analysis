@@ -1,0 +1,14 @@
+{
+    "success_phrases": [
+        "accomplished", "achieved", "cohesive", "collaborative", "effective", "efficient", "great job",  
+        "improved", "met goals", "on track", "positive outcome", "productive",
+        "resolved", "smooth", "succeeded", "successful", "worked well"
+    ],
+    "failure_phrases": [
+        "argument", "challenging", "conflict", "difficult", "disagreement",
+        "failed", "frustration", "ineffective", "lack of trust",
+        "missed deadline", "poor communication", "struggled", "tension", 
+        "unresolved", "unsuccessful"
+    ]
+}
+

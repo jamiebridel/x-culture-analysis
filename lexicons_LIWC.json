@@ -1,0 +1,48 @@
+{
+  "function_words": {
+    "pronouns": {
+      "personal": [
+        "i", "me", "my", "mine", "myself",
+        "you", "your", "yours", "yourself", "yourselves",
+        "he", "him", "his", "himself",
+        "she", "her", "hers", "herself",
+        "it", "its", "itself",
+        "we", "us", "our", "ours", "ourselves",
+        "they", "them", "their", "theirs", "themselves"
+      ],
+      "impersonal": ["one", "oneself", "someone", "somebody", "anyone", "anybody"]
+    },
+    "articles": [
+      "a", "alot", "an", "the"
+    ],
+    "auxiliary_verbs": [
+      "am", "is", "are", "was", "were", "be", "being", "been",
+      "have", "has", "had", "do", "does", "did", "shall", "should", "will", 
+      "would", "may", "might", "must", "can", "could"
+    ],
+    "conjunctions": {
+      "coordinating": ["and", "but", "or", "nor", "for", "yet", "so"],
+      "subordinating": [
+        "after", "although", "as", "because", "before", "how", "if", "once", "since", "than", 
+        "that", "though", "till", "until", "when", "where", "whether", "while"
+      ]
+    },
+    "prepositions": [
+      "about", "above", "across", "after", "against", "along", "among", "around", "at", 
+      "before", "behind", "below", "beneath", "beside", "between", "beyond", "but", 
+      "by", "concerning", "considering", "despite", "down", "during", "except", "for", 
+      "from", "in", "inside", "into", "like", "near", "of", "off", "on", "onto", "out", 
+      "outside", "over", "past", "per", "plus", "regarding", "round", "save", "since", 
+      "than", "through", "to", "toward", "under", "underneath", "until", "up", "upon", 
+      "with", "within", "without"
+    ],
+    "adverbs": [
+      "also", "always", "back", "even", "here", "just", "never", "now", "often", "only", 
+      "really", "so", "still", "then", "there", "too", "very", "well", "when", "where",
+      "why", "yet"
+    ],
+    "negations": [
+      "no", "not", "never", "nobody", "none", "on-one", "nothing", "neither", "nowhere"
+    ]
+  }
+}

@@ -1,0 +1,1452 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "aliases": ["Islamic Republic of Afghanistan"],
+      "nationality": "Afghan",
+      "capital": "Kabul",
+      "major_cities": ["Kandahar", "Herat", "Mazar-i-Sharif", "Kunduz"]
+    },
+    {
+      "name": "Albania",
+      "aliases": ["Republic of Albania"],
+      "nationality": "Albanian",
+      "capital": "Tirana",
+      "major_cities": ["Durrës", "Vlorë", "Shkodër", "Elbasan"]
+    },
+    {
+      "name": "Algeria",
+      "aliases": ["People's Democratic Republic of Algeria"],
+      "nationality": "Algerian",
+      "capital": "Algiers",
+      "major_cities": ["Oran", "Constantine", "Annaba", "Blida"]
+    },
+    {
+      "name": "Andorra",
+      "aliases": ["Principality of Andorra"],
+      "nationality": "Andorran",
+      "capital": "Andorra la Vella",
+      "major_cities": ["Escaldes-Engordany", "Encamp", "Sant Julià de Lòria"]
+    },
+    {
+      "name": "Angola",
+      "aliases": ["Republic of Angola"],
+      "nationality": "Angolan",
+      "capital": "Luanda",
+      "major_cities": ["Huambo", "Lobito", "Benguela", "Kuito"]
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "aliases": [],
+      "nationality": "Antiguan, Barbudan",
+      "capital": "Saint John's",
+      "major_cities": ["All Saints", "Liberta", "Potter's Village"]
+    },
+    {
+      "name": "Argentina",
+      "aliases": ["Argentine Republic"],
+      "nationality": "Argentine",
+      "capital": "Buenos Aires",
+      "major_cities": ["Córdoba", "Rosario", "Mendoza", "La Plata"]
+    },
+    {
+      "name": "Armenia",
+      "aliases": ["Republic of Armenia"],
+      "nationality": "Armenian",
+      "capital": "Yerevan",
+      "major_cities": ["Gyumri", "Vanadzor", "Vagharshapat", "Hrazdan"]
+    },
+    {
+      "name": "Australia",
+      "aliases": ["Commonwealth of Australia"],
+      "nationality": "Australian",
+      "capital": "Canberra",
+      "major_cities": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide"]
+    },
+    {
+      "name": "Austria",
+      "aliases": ["Republic of Austria"],
+      "nationality": "Austrian",
+      "capital": "Vienna",
+      "major_cities": ["Graz", "Linz", "Salzburg", "Innsbruck"]
+    },
+    {
+      "name": "Azerbaijan",
+      "aliases": ["Republic of Azerbaijan"],
+      "nationality": "Azerbaijani",
+      "capital": "Baku",
+      "major_cities": ["Ganja", "Sumqayit", "Lankaran", "Mingachevir"]
+    },
+    {
+      "name": "Bahamas",
+      "aliases": ["Commonwealth of The Bahamas"],
+      "nationality": "Bahamian",
+      "capital": "Nassau",
+      "major_cities": ["Freeport", "West End", "Cooper’s Town", "Marsh Harbour"]
+    },
+    {
+      "name": "Bahrain",
+      "aliases": ["Kingdom of Bahrain"],
+      "nationality": "Bahraini",
+      "capital": "Manama",
+      "major_cities": ["Muharraq", "Riffa", "Hamad Town", "A'ali"]
+    },
+    {
+      "name": "Bangladesh",
+      "aliases": ["People's Republic of Bangladesh"],
+      "nationality": "Bangladeshi",
+      "capital": "Dhaka",
+      "major_cities": ["Chittagong", "Khulna", "Sylhet", "Rajshahi"]
+    },
+    {
+      "name": "Barbados",
+      "aliases": [],
+      "nationality": "Barbadian",
+      "capital": "Bridgetown",
+      "major_cities": ["Speightstown", "Oistins", "Holetown", "Bathsheba"]
+    },
+    {
+      "name": "Belarus",
+      "aliases": ["Republic of Belarus"],
+      "nationality": "Belarusian",
+      "capital": "Minsk",
+      "major_cities": ["Gomel", "Mogilev", "Vitebsk", "Grodno"]
+    },
+    {
+      "name": "Belgium",
+      "aliases": ["Kingdom of Belgium"],
+      "nationality": "Belgian",
+      "capital": "Brussels",
+      "major_cities": ["Antwerp", "Ghent", "Charleroi", "Liège"]
+    },
+    {
+      "name": "Belize",
+      "aliases": [],
+      "nationality": "Belizean",
+      "capital": "Belmopan",
+      "major_cities": ["Belize City", "San Ignacio", "Orange Walk Town", "Dangriga"]
+    },
+    {
+      "name": "Benin",
+      "aliases": ["Republic of Benin"],
+      "nationality": "Beninese",
+      "capital": "Porto-Novo",
+      "major_cities": ["Cotonou", "Parakou", "Djougou", "Bohicon"]
+    },
+    {
+      "name": "Bhutan",
+      "aliases": ["Kingdom of Bhutan"],
+      "nationality": "Bhutanese",
+      "capital": "Thimphu",
+      "major_cities": ["Phuntsholing", "Punakha", "Paro", "Wangdue Phodrang"]
+    },
+    {
+      "name": "Bolivia",
+      "aliases": ["Plurinational State of Bolivia"],
+      "nationality": "Bolivian",
+      "capital": "Sucre (constitutional), La Paz (administrative)",
+      "major_cities": ["Santa Cruz de la Sierra", "Cochabamba", "El Alto", "Oruro"]
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "aliases": [],
+      "nationality": "Bosnian, Herzegovinian",
+      "capital": "Sarajevo",
+      "major_cities": ["Banja Luka", "Tuzla", "Zenica", "Mostar"]
+    },
+    {
+      "name": "Botswana",
+      "aliases": ["Republic of Botswana"],
+      "nationality": "Motswana",
+      "capital": "Gaborone",
+      "major_cities": ["Francistown", "Molepolole", "Maun", "Serowe"]
+    },
+    {
+      "name": "Brazil",
+      "aliases": ["Federative Republic of Brazil"],
+      "nationality": "Brazilian",
+      "capital": "Brasília",
+      "major_cities": ["São Paulo", "Rio de Janeiro", "Salvador", "Fortaleza", "Belo Horizonte"]
+    },
+    {
+      "name": "Brunei",
+      "aliases": ["Nation of Brunei, the Abode of Peace"],
+      "nationality": "Bruneian",
+      "capital": "Bandar Seri Begawan",
+      "major_cities": ["Kuala Belait", "Seria", "Tutong", "Bangar"]
+    },
+    {
+      "name": "Bulgaria",
+      "aliases": ["Republic of Bulgaria"],
+      "nationality": "Bulgarian",
+      "capital": "Sofia",
+      "major_cities": ["Plovdiv", "Varna", "Burgas", "Ruse"]
+    },
+    {
+      "name": "Burkina Faso",
+      "aliases": [],
+      "nationality": "Burkinabé",
+      "capital": "Ouagadougou",
+      "major_cities": ["Bobo-Dioulasso", "Koudougou", "Ouahigouya", "Banfora"]
+    },
+    {
+      "name": "Burundi",
+      "aliases": ["Republic of Burundi"],
+      "nationality": "Burundian",
+      "capital": "Gitega (political), Bujumbura (economic)",
+      "major_cities": ["Ngozi", "Rumonge", "Cibitoke", "Kayanza"]
+    },
+    {
+      "name": "Cambodia",
+      "aliases": ["Kingdom of Cambodia"],
+      "nationality": "Cambodian",
+      "capital": "Phnom Penh",
+      "major_cities": ["Siem Reap", "Battambang", "Sihanoukville", "Kampong Cham"]
+    },
+    {
+      "name": "Cameroon",
+      "aliases": ["Republic of Cameroon"],
+      "nationality": "Cameroonian",
+      "capital": "Yaoundé",
+      "major_cities": ["Douala", "Bamenda", "Bafoussam", "Maroua"]
+    },
+    {
+      "name": "Canada",
+      "aliases": [],
+      "nationality": "Canadian",
+      "capital": "Ottawa",
+      "major_cities": ["Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton"],
+      "provinces": [
+        {"province_name": "Alberta", "abbreviation": "AB", "provincial_capital": "Edmonton", "nationality": "Albertan"},
+        {"province_name": "British Columbia", "abbreviation": "BC", "provincial_capital": "Victoria", "nationality": "British Columbian"},
+        {"province_name": "Manitoba", "abbreviation": "MB", "provincial_capital": "Winnipeg", "nationality": "Manitoban"},
+        {"province_name": "New Brunswick", "abbreviation": "NB", "provincial_capital": "Fredericton", "nationality": "New Brunswicker"},
+        {"province_name": "Newfoundland and Labrador", "abbreviation": "NL", "provincial_capital": "St. John's", "nationality": "Newfoundlander, Labradorian"},
+        {"province_name": "Northwest Territories", "abbreviation": "NT", "provincial_capital": "Yellowknife", "nationality": "Northwest Territorian"},
+        {"province_name": "Nova Scotia", "abbreviation": "NS", "provincial_capital": "Halifax", "nationality": "Nova Scotian"},
+        {"province_name": "Nunavut", "abbreviation": "NU", "provincial_capital": "Iqaluit", "nationality": "Nunavummiut"},
+        {"province_name": "Ontario", "abbreviation": "ON", "provincial_capital": "Toronto", "nationality": "Ontarian"},
+        {"province_name": "Prince Edward Island", "abbreviation": "PE", "provincial_capital": "Charlottetown", "nationality": "Prince Edward Islander"},
+        {"province_name": "Quebec", "abbreviation": "QC", "provincial_capital": "Quebec City", "nationality": "Quebecer, Québécois"},
+        {"province_name": "Saskatchewan", "abbreviation": "SK", "provincial_capital": "Regina", "nationality": "Saskatchewanian"},
+        {"province_name": "Yukon", "abbreviation": "YT", "provincial_capital": "Whitehorse", "nationality": "Yukoner"}
+      ]
+    },
+    {
+      "name": "Cape Verde",
+      "aliases": ["Republic of Cabo Verde"],
+      "nationality": "Cape Verdean",
+      "capital": "Praia",
+      "major_cities": ["Mindelo", "Santa Maria", "Assomada", "Porto Novo"]
+    },
+    {
+      "name": "Central African Republic",
+      "aliases": [],
+      "nationality": "Central African",
+      "capital": "Bangui",
+      "major_cities": ["Bimbo", "Mbaïki", "Berbérati", "Kaga-Bandoro"]
+    },
+    {
+      "name": "Chad",
+      "aliases": ["Republic of Chad"],
+      "nationality": "Chadian",
+      "capital": "N'Djamena",
+      "major_cities": ["Moundou", "Sarh", "Abéché", "Kelo"]
+    },
+    {
+      "name": "Chile",
+      "aliases": ["Republic of Chile"],
+      "nationality": "Chilean",
+      "capital": "Santiago",
+      "major_cities": ["Valparaíso", "Concepción", "La Serena", "Antofagasta"]
+    },
+    {
+      "name": "China",
+      "aliases": ["People's Republic of China"],
+      "nationality": "Chinese",
+      "capital": "Beijing",
+      "major_cities": ["Shanghai", "Guangzhou", "Shenzhen", "Chengdu", "Tianjin", "Macau", "Hong Kong"]
+    },
+    {
+      "name": "Colombia",
+      "aliases": ["Republic of Colombia"],
+      "nationality": "Colombian",
+      "capital": "Bogotá",
+      "major_cities": ["Medellín", "Cali", "Barranquilla", "Cartagena"]
+    },
+    {
+      "name": "Comoros",
+      "aliases": ["Union of the Comoros"],
+      "nationality": "Comorian",
+      "capital": "Moroni",
+      "major_cities": ["Mutsamudu", "Fomboni", "Domoni", "Sima"]
+    },
+    {
+      "name": "Congo (Brazzaville)",
+      "aliases": ["Republic of the Congo"],
+      "nationality": "Congolese",
+      "capital": "Brazzaville",
+      "major_cities": ["Pointe-Noire", "Dolisie", "Nkayi", "Impfondo"]
+    },
+    {
+      "name": "Congo (Kinshasa)",
+      "aliases": ["Democratic Republic of the Congo"],
+      "nationality": "Congolese",
+      "capital": "Kinshasa",
+      "major_cities": ["Lubumbashi", "Mbuji-Mayi", "Kananga", "Kisangani"]
+    },
+    {
+      "name": "Costa Rica",
+      "aliases": ["Republic of Costa Rica"],
+      "nationality": "Costa Rican",
+      "capital": "San José",
+      "major_cities": ["Alajuela", "Cartago", "Heredia", "Liberia"]
+    },
+    {
+      "name": "Croatia",
+      "aliases": ["Republic of Croatia"],
+      "nationality": "Croatian",
+      "capital": "Zagreb",
+      "major_cities": ["Split", "Rijeka", "Osijek", "Zadar"]
+    },
+    {
+      "name": "Cuba",
+      "aliases": ["Republic of Cuba"],
+      "nationality": "Cuban",
+      "capital": "Havana",
+      "major_cities": ["Santiago de Cuba", "Camagüey", "Holguín", "Guantánamo"]
+    },
+    {
+      "name": "Cyprus",
+      "aliases": ["Republic of Cyprus"],
+      "nationality": "Cypriot",
+      "capital": "Nicosia",
+      "major_cities": ["Limassol", "Larnaca", "Famagusta", "Paphos"]
+    },
+    {
+      "name": "Czech Republic",
+      "aliases": ["Czechia"],
+      "nationality": "Czech",
+      "capital": "Prague",
+      "major_cities": ["Brno", "Ostrava", "Plzeň", "Liberec"]
+    },
+    {
+      "name": "Denmark",
+      "aliases": ["Kingdom of Denmark"],
+      "nationality": "Danish",
+      "capital": "Copenhagen",
+      "major_cities": ["Aarhus", "Odense", "Aalborg", "Frederiksberg"]
+    },
+    {
+      "name": "Djibouti",
+      "aliases": ["Republic of Djibouti"],
+      "nationality": "Djiboutian",
+      "capital": "Djibouti",
+      "major_cities": ["Ali Sabieh", "Tadjoura", "Obock", "Dikhil"]
+    },
+    {
+      "name": "Dominica",
+      "aliases": ["Commonwealth of Dominica"],
+      "nationality": "Dominican",
+      "capital": "Roseau",
+      "major_cities": ["Portsmouth", "Marigot", "Berekua", "Mahaut"]
+    },
+    {
+      "name": "Dominican Republic",
+      "aliases": [],
+      "nationality": "Dominican",
+      "capital": "Santo Domingo",
+      "major_cities": ["Santiago de los Caballeros", "San Francisco de Macorís", "La Romana", "San Cristóbal"]
+    },
+    {
+      "name": "Ecuador",
+      "aliases": ["Republic of Ecuador"],
+      "nationality": "Ecuadorian",
+      "capital": "Quito",
+      "major_cities": ["Guayaquil", "Cuenca", "Santo Domingo", "Manta"]
+    },
+    {
+      "name": "Egypt",
+      "aliases": ["Arab Republic of Egypt"],
+      "nationality": "Egyptian",
+      "capital": "Cairo",
+      "major_cities": ["Alexandria", "Giza", "Shubra El Kheima", "Port Said"]
+    },
+    {
+      "name": "El Salvador",
+      "aliases": ["Republic of El Salvador"],
+      "nationality": "Salvadoran",
+      "capital": "San Salvador",
+      "major_cities": ["Santa Ana", "San Miguel", "Soyapango", "Apopa"]
+    },
+    {
+      "name": "Equatorial Guinea",
+      "aliases": ["Republic of Equatorial Guinea"],
+      "nationality": "Equatoguinean",
+      "capital": "Malabo",
+      "major_cities": ["Bata", "Ebebiyín", "Aconibe", "Añisoc"]
+    },
+    {
+      "name": "Eritrea",
+      "aliases": ["State of Eritrea"],
+      "nationality": "Eritrean",
+      "capital": "Asmara",
+      "major_cities": ["Keren", "Massawa", "Assab", "Mendefera"]
+    },
+    {
+      "name": "Estonia",
+      "aliases": ["Republic of Estonia"],
+      "nationality": "Estonian",
+      "capital": "Tallinn",
+      "major_cities": ["Tartu", "Narva", "Pärnu", "Kohtla-Järve"]
+    },
+    {
+      "name": "Eswatini",
+      "aliases": ["Kingdom of Eswatini"],
+      "nationality": "Swazi",
+      "capital": "Mbabane (administrative), Lobamba (royal/legislative)",
+      "major_cities": ["Manzini", "Big Bend", "Malkerns", "Nhlangano"]
+    },
+    {
+      "name": "Ethiopia",
+      "aliases": ["Federal Democratic Republic of Ethiopia"],
+      "nationality": "Ethiopian",
+      "capital": "Addis Ababa",
+      "major_cities": ["Dire Dawa", "Mekelle", "Adama", "Gondar"]
+    },
+    {
+      "name": "Fiji",
+      "aliases": ["Republic of Fiji"],
+      "nationality": "Fijian",
+      "capital": "Suva",
+      "major_cities": ["Lautoka", "Nadi", "Labasa", "Ba"]
+    },
+    {
+      "name": "Finland",
+      "aliases": ["Republic of Finland"],
+      "nationality": "Finnish",
+      "capital": "Helsinki",
+      "major_cities": ["Espoo", "Tampere", "Vantaa", "Oulu"]
+    },
+    {
+      "name": "France",
+      "aliases": ["French Republic"],
+      "nationality": "French",
+      "capital": "Paris",
+      "major_cities": ["Marseille", "Lyon", "Toulouse", "Nice", "Nantes"]
+    },
+    {
+      "name": "Gabon",
+      "aliases": ["Gabonese Republic"],
+      "nationality": "Gabonese",
+      "capital": "Libreville",
+      "major_cities": ["Port-Gentil", "Franceville", "Oyem", "Moanda"]
+    },
+    {
+      "name": "Gambia",
+      "aliases": ["Republic of The Gambia"],
+      "nationality": "Gambian",
+      "capital": "Banjul",
+      "major_cities": ["Serekunda", "Brikama", "Bakau", "Farafenni"]
+    },
+    {
+      "name": "Georgia",
+      "aliases": [],
+      "nationality": "Georgian",
+      "capital": "Tbilisi",
+      "major_cities": ["Batumi", "Kutaisi", "Rustavi", "Gori"]
+    },
+    {
+      "name": "Germany",
+      "aliases": ["Federal Republic of Germany"],
+      "nationality": "German",
+      "capital": "Berlin",
+      "major_cities": ["Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart"]
+    },
+    {
+      "name": "Ghana",
+      "aliases": ["Republic of Ghana"],
+      "nationality": "Ghanaian",
+      "capital": "Accra",
+      "major_cities": ["Kumasi", "Tamale", "Sekondi-Takoradi", "Ashiaman"]
+    },
+    {
+      "name": "Greece",
+      "aliases": ["Hellenic Republic"],
+      "nationality": "Greek",
+      "capital": "Athens",
+      "major_cities": ["Thessaloniki", "Patras", "Larissa", "Heraklion"]
+    },
+    {
+      "name": "Grenada",
+      "aliases": [],
+      "nationality": "Grenadian",
+      "capital": "St. George's",
+      "major_cities": ["Gouyave", "Sauteurs", "Hillsborough", "Victoria"]
+    },
+    {
+      "name": "Guatemala",
+      "aliases": ["Republic of Guatemala"],
+      "nationality": "Guatemalan",
+      "capital": "Guatemala City",
+      "major_cities": ["Mixco", "Villa Nueva", "Quetzaltenango", "Escuintla"]
+    },
+    {
+      "name": "Guinea",
+      "aliases": ["Republic of Guinea"],
+      "nationality": "Guinean",
+      "capital": "Conakry",
+      "major_cities": ["Nzérékoré", "Kankan", "Kindia", "Boké"]
+    },
+    {
+      "name": "Guinea-Bissau",
+      "aliases": ["Republic of Guinea-Bissau"],
+      "nationality": "Bissau-Guinean",
+      "capital": "Bissau",
+      "major_cities": ["Bafatá", "Gabú", "Bissorã", "Bolama"]
+    },
+    {
+      "name": "Guyana",
+      "aliases": ["Co-operative Republic of Guyana"],
+      "nationality": "Guyanese",
+      "capital": "Georgetown",
+      "major_cities": ["Linden", "New Amsterdam", "Anna Regina", "Bartica"]
+    },
+    {
+      "name": "Haiti",
+      "aliases": ["Republic of Haiti"],
+      "nationality": "Haitian",
+      "capital": "Port-au-Prince",
+      "major_cities": ["Carrefour", "Delmas", "Pétion-Ville", "Cap-Haïtien"]
+    },
+    {
+      "name": "Honduras",
+      "aliases": ["Republic of Honduras"],
+      "nationality": "Honduran",
+      "capital": "Tegucigalpa",
+      "major_cities": ["San Pedro Sula", "Choloma", "La Ceiba", "El Progreso"]
+    },
+    {
+      "name": "Hungary",
+      "aliases": [],
+      "nationality": "Hungarian",
+      "capital": "Budapest",
+      "major_cities": ["Debrecen", "Szeged", "Miskolc", "Pécs"]
+    },
+    {
+      "name": "Iceland",
+      "aliases": ["Republic of Iceland"],
+      "nationality": "Icelandic",
+      "capital": "Reykjavík",
+      "major_cities": ["Kópavogur", "Hafnarfjörður", "Reykjanesbær", "Akureyri"]
+    },
+    {
+      "name": "India",
+      "aliases": ["Republic of India"],
+      "nationality": "Indian",
+      "capital": "New Delhi",
+      "major_cities": ["Mumbai", "Bangalore", "Hyderabad", "Ahmedabad", "Chennai"],
+      "provinces": [
+        {"province_name": "Andhra Pradesh", "provincial_capital": "Amaravati", "nationality": "Indian"},
+        {"province_name": "Arunachal Pradesh", "provincial_capital": "Itanagar", "nationality": "Indian"},
+        {"province_name": "Assam", "provincial_capital": "Dispur", "nationality": "Indian"},
+        {"province_name": "Bihar", "provincial_capital": "Patna", "nationality": "Indian"},
+        {"province_name": "Chhattisgarh", "provincial_capital": "Raipur", "nationality": "Indian"},
+        {"province_name": "Goa", "provincial_capital": "Panaji", "nationality": "Indian"},
+        {"province_name": "Gujarat", "provincial_capital": "Gandhinagar", "nationality": "Indian"},
+        {"province_name": "Haryana", "provincial_capital": "Chandigarh", "nationality": "Indian"},
+        {"province_name": "Himachal Pradesh", "provincial_capital": "Shimla", "nationality": "Indian"},
+        {"province_name": "Jharkhand", "provincial_capital": "Ranchi", "nationality": "Indian"},
+        {"province_name": "Karnataka", "provincial_capital": "Bangalore", "nationality": "Indian"},
+        {"province_name": "Kerala", "provincial_capital": "Thiruvananthapuram", "nationality": "Indian"},
+        {"province_name": "Madhya Pradesh", "provincial_capital": "Bhopal", "nationality": "Indian"},
+        {"province_name": "Maharashtra", "provincial_capital": "Mumbai", "nationality": "Indian"},
+        {"province_name": "Manipur", "provincial_capital": "Imphal", "nationality": "Indian"},
+        {"province_name": "Meghalaya", "provincial_capital": "Shillong", "nationality": "Indian"},
+        {"province_name": "Mizoram", "provincial_capital": "Aizawl", "nationality": "Indian"},
+        {"province_name": "Nagaland", "provincial_capital": "Kohima", "nationality": "Indian"},
+        {"province_name": "Odisha", "provincial_capital": "Bhubaneshwar", "nationality": "Indian"},
+        {"province_name": "Punjab", "provincial_capital": "Chandigarh", "nationality": "Indian"},
+        {"province_name": "Rajasthan", "provincial_capital": "Jaipur", "nationality": "Indian"},
+        {"province_name": "Sikkim", "provincial_capital": "Gangtok", "nationality": "Indian"},
+        {"province_name": "Tamil Nadu", "provincial_capital": "Chennai", "nationality": "Indian"},
+        {"province_name": "Telangana", "provincial_capital": "Hyderabad", "nationality": "Indian"},
+        {"province_name": "Tripura", "provincial_capital": "Agartala", "nationality": "Indian"},
+        {"province_name": "Uttarakhand", "provincial_capital": "Dehradun", "nationality": "Indian"},
+        {"province_name": "Uttar Pradesh", "provincial_capital": "Lucknow", "nationality": "Indian"},
+        {"province_name": "West Bengal", "provincial_capital": "Kolkata", "nationality": "Indian"}
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "aliases": ["Republic of Indonesia"],
+      "nationality": "Indonesian",
+      "capital": "Jakarta",
+      "major_cities": ["Surabaya", "Bandung", "Medan", "Semarang"]
+    },
+    {
+      "name": "Iran",
+      "aliases": ["Islamic Republic of Iran"],
+      "nationality": "Iranian",
+      "capital": "Tehran",
+      "major_cities": ["Mashhad", "Isfahan", "Karaj", "Shiraz"]
+    },
+    {
+      "name": "Iraq",
+      "aliases": ["Republic of Iraq"],
+      "nationality": "Iraqi",
+      "capital": "Baghdad",
+      "major_cities": ["Basra", "Mosul", "Erbil", "Kirkuk"]
+    },
+    {
+      "name": "Ireland",
+      "aliases": [],
+      "nationality": "Irish",
+      "capital": "Dublin",
+      "major_cities": ["Cork", "Limerick", "Galway", "Waterford"]
+    },
+    {
+      "name": "Israel",
+      "aliases": ["State of Israel"],
+      "nationality": "Israeli",
+      "capital": "Jerusalem",
+      "major_cities": ["Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva"]
+    },
+    {
+      "name": "Italy",
+      "aliases": ["Italian Republic"],
+      "nationality": "Italian",
+      "capital": "Rome",
+      "major_cities": ["Milan", "Naples", "Turin", "Palermo", "Genoa"]
+    },
+    {
+      "name": "Jamaica",
+      "aliases": [],
+      "nationality": "Jamaican",
+      "capital": "Kingston",
+      "major_cities": ["Montego Bay", "Spanish Town", "Portmore", "Mandeville"]
+    },
+    {
+      "name": "Japan",
+      "aliases": [],
+      "nationality": "Japanese",
+      "capital": "Tokyo",
+      "major_cities": ["Yokohama", "Osaka", "Nagoya", "Sapporo", "Fukuoka"]
+    },
+    {
+      "name": "Jordan",
+      "aliases": ["Hashemite Kingdom of Jordan"],
+      "nationality": "Jordanian",
+      "capital": "Amman",
+      "major_cities": ["Zarqa", "Irbid", "Rusayfah", "Wihdat"]
+    },
+    {
+      "name": "Kazakhstan",
+      "aliases": ["Republic of Kazakhstan"],
+      "nationality": "Kazakh",
+      "capital": "Nur-Sultan",
+      "major_cities": ["Almaty", "Shymkent", "Aktau", "Karaganda"]
+    },
+    {
+      "name": "Kenya",
+      "aliases": ["Republic of Kenya"],
+      "nationality": "Kenyan",
+      "capital": "Nairobi",
+      "major_cities": ["Mombasa", "Kisumu", "Nakuru", "Eldoret"]
+    },
+    {
+      "name": "Kiribati",
+      "aliases": ["Republic of Kiribati"],
+      "nationality": "I-Kiribati",
+      "capital": "South Tarawa",
+      "major_cities": ["Bairiki", "Bikenibeu", "Teaoraereke", "Betio"]
+    },
+    {
+      "name": "Korea, North",
+      "aliases": ["Democratic People's Republic of Korea"],
+      "nationality": "North Korean",
+      "capital": "Pyongyang",
+      "major_cities": ["Hamhung", "Chongjin", "Nampo", "Wonsan"]
+    },
+    {
+      "name": "Korea, South",
+      "aliases": ["Republic of Korea"],
+      "nationality": "South Korean",
+      "capital": "Seoul",
+      "major_cities": ["Busan", "Incheon", "Daegu", "Daejeon"]
+    },
+    {
+      "name": "Kuwait",
+      "aliases": ["State of Kuwait"],
+      "nationality": "Kuwaiti",
+      "capital": "Kuwait City",
+      "major_cities": ["Al Ahmadi", "Hawalli", "Al Farwaniyah", "Al Jahra"]
+    },
+    {
+      "name": "Kyrgyzstan",
+      "aliases": ["Kyrgyz Republic"],
+      "nationality": "Kyrgyz",
+      "capital": "Bishkek",
+      "major_cities": ["Osh", "Jalal-Abad", "Karakol", "Tokmok"]
+    },
+    {
+      "name": "Laos",
+      "aliases": ["Lao People's Democratic Republic"],
+      "nationality": "Laotian",
+      "capital": "Vientiane",
+      "major_cities": ["Luang Prabang", "Savannakhet", "Pakxe", "Thakhek"]
+    },
+    {
+      "name": "Latvia",
+      "aliases": ["Republic of Latvia"],
+      "nationality": "Latvian",
+      "capital": "Riga",
+      "major_cities": ["Daugavpils", "Liepāja", "Jelgava", "Jūrmala"]
+    },
+    {
+      "name": "Lebanon",
+      "aliases": ["Lebanese Republic"],
+      "nationality": "Lebanese",
+      "capital": "Beirut",
+      "major_cities": ["Tripoli", "Sidon", "Tyre", "Byblos"]
+    },
+    {
+      "name": "Lesotho",
+      "aliases": ["Kingdom of Lesotho"],
+      "nationality": "Mosotho",
+      "capital": "Maseru",
+      "major_cities": ["Mafeteng", "Hlotse", "Mohlakeng", "Maputsoe"]
+    },
+    {
+      "name": "Liberia",
+      "aliases": ["Republic of Liberia"],
+      "nationality": "Liberian",
+      "capital": "Monrovia",
+      "major_cities": ["Gbarnga", "Kakata", "Bensonville", "Harper"]
+    },
+    {
+      "name": "Libya",
+      "aliases": ["State of Libya"],
+      "nationality": "Libyan",
+      "capital": "Tripoli",
+      "major_cities": ["Benghazi", "Misrata", "Tobruk", "Sabha"]
+    },
+    {
+      "name": "Liechtenstein",
+      "aliases": ["Principality of Liechtenstein"],
+      "nationality": "Liechtensteiner",
+      "capital": "Vaduz",
+      "major_cities": ["Schaan", "Triesen", "Balzers", "Eschen"]
+    },
+    {
+      "name": "Lithuania",
+      "aliases": ["Republic of Lithuania"],
+      "nationality": "Lithuanian",
+      "capital": "Vilnius",
+      "major_cities": ["Kaunas", "Klaipėda", "Šiauliai", "Panevėžys"]
+    },
+    {
+      "name": "Luxembourg",
+      "aliases": ["Grand Duchy of Luxembourg"],
+      "nationality": "Luxembourger",
+      "capital": "Luxembourg",
+      "major_cities": ["Esch-sur-Alzette", "Dudelange", "Schifflange", "Bettembourg"]
+    },
+    {
+      "name": "Madagascar",
+      "aliases": ["Republic of Madagascar"],
+      "nationality": "Malagasy",
+      "capital": "Antananarivo",
+      "major_cities": ["Toamasina", "Antsirabe", "Fianarantsoa", "Mahajanga"]
+    },
+    {
+      "name": "Malawi",
+      "aliases": ["Republic of Malawi"],
+      "nationality": "Malawian",
+      "capital": "Lilongwe",
+      "major_cities": ["Blantyre", "Mzuzu", "Zomba", "Kasungu"]
+    },
+    {
+      "name": "Malaysia",
+      "aliases": [],
+      "nationality": "Malaysian",
+      "capital": "Kuala Lumpur",
+      "major_cities": ["George Town", "Ipoh", "Shah Alam", "Petaling Jaya"]
+    },
+    {
+      "name": "Maldives",
+      "aliases": ["Republic of Maldives"],
+      "nationality": "Maldivian",
+      "capital": "Malé",
+      "major_cities": ["Addu City", "Fuvahmulah", "Kulhudhuffushi", "Thinadhoo"]
+    },
+    {
+      "name": "Mali",
+      "aliases": ["Republic of Mali"],
+      "nationality": "Malian",
+      "capital": "Bamako",
+      "major_cities": ["Sikasso", "Mopti", "Koutiala", "Kayes"]
+    },
+    {
+      "name": "Malta",
+      "aliases": ["Republic of Malta"],
+      "nationality": "Maltese",
+      "capital": "Valletta",
+      "major_cities": ["Birkirkara", "Qormi", "Mosta", "Żabbar"]
+    },
+    {
+      "name": "Marshall Islands",
+      "aliases": ["Republic of the Marshall Islands"],
+      "nationality": "Marshallese",
+      "capital": "Majuro",
+      "major_cities": ["Ebeye", "Jabat", "Kili", "Likiep"]
+    },
+    {
+      "name": "Mauritania",
+      "aliases": ["Islamic Republic of Mauritania"],
+      "nationality": "Mauritanian",
+      "capital": "Nouakchott",
+      "major_cities": ["Nouadhibou", "Kiffa", "Zouérat", "Rosso"]
+    },
+    {
+      "name": "Mauritius",
+      "aliases": ["Republic of Mauritius"],
+      "nationality": "Mauritian",
+      "capital": "Port Louis",
+      "major_cities": ["Beau Bassin-Rose Hill", "Vacoas-Phoenix", "Curepipe", "Quatre Bornes"]
+    },
+    {
+      "name": "Mexico",
+      "aliases": ["United Mexican States"],
+      "nationality": "Mexican",
+      "capital": "Mexico City",
+      "major_cities": ["Ecatepec", "Guadalajara", "Puebla", "Juárez"]
+    },
+    {
+      "name": "Micronesia",
+      "aliases": ["Federated States of Micronesia"],
+      "nationality": "Micronesian",
+      "capital": "Palikir",
+      "major_cities": ["Weno", "Colonia", "Tafunsak", "Nett"]
+    },
+    {
+      "name": "Moldova",
+      "aliases": ["Republic of Moldova"],
+      "nationality": "Moldovan",
+      "capital": "Chisinau",
+      "major_cities": ["Tiraspol", "Bălți", "Bender", "Rîbnița"]
+    },
+    {
+      "name": "Monaco",
+      "aliases": ["Principality of Monaco"],
+      "nationality": "Monegasque",
+      "capital": "Monaco",
+      "major_cities": []
+    },
+    {
+      "name": "Mongolia",
+      "aliases": [],
+      "nationality": "Mongolian",
+      "capital": "Ulaanbaatar",
+      "major_cities": ["Erdenet", "Darkhan", "Choibalsan", "Uliastai"]
+    },
+    {
+      "name": "Montenegro",
+      "aliases": [],
+      "nationality": "Montenegrin",
+      "capital": "Podgorica",
+      "major_cities": ["Nikšić", "Herceg Novi", "Pljevlja", "Bar"]
+    },
+    {
+      "name": "Morocco",
+      "aliases": ["Kingdom of Morocco"],
+      "nationality": "Moroccan",
+      "capital": "Rabat",
+      "major_cities": ["Casablanca", "Fes", "Tangier", "Marrakesh"]
+    },
+    {
+      "name": "Mozambique",
+      "aliases": ["Republic of Mozambique"],
+      "nationality": "Mozambican",
+      "capital": "Maputo",
+      "major_cities": ["Matola", "Beira", "Nampula", "Chimoio"]
+    },
+    {
+      "name": "Myanmar",
+      "aliases": ["Republic of the Union of Myanmar"],
+      "nationality": "Burmese",
+      "capital": "Naypyidaw",
+      "major_cities": ["Yangon", "Mandalay", "Mawlamyine", "Bago"]
+    },
+    {
+      "name": "Namibia",
+      "aliases": ["Republic of Namibia"],
+      "nationality": "Namibian",
+      "capital": "Windhoek",
+      "major_cities": ["Rundu", "Walvis Bay", "Oshakati", "Swakopmund"]
+    },
+    {
+      "name": "Nauru",
+      "aliases": ["Republic of Nauru"],
+      "nationality": "Nauruan",
+      "capital": "Yaren",
+      "major_cities": ["Denigomodu", "Anabar", "Uaboe", "Baiti"]
+    },
+    {
+      "name": "Nepal",
+      "aliases": ["Federal Democratic Republic of Nepal"],
+      "nationality": "Nepali",
+      "capital": "Kathmandu",
+      "major_cities": ["Pokhara", "Lalitpur", "Bharatpur", "Biratnagar"]
+    },
+    {
+      "name": "Netherlands",
+      "aliases": ["Kingdom of the Netherlands"],
+      "nationality": "Dutch",
+      "capital": "Amsterdam",
+      "major_cities": ["Rotterdam", "The Hague", "Utrecht", "Eindhoven"]
+    },
+    {
+      "name": "New Zealand",
+      "aliases": [],
+      "nationality": "New Zealander",
+      "capital": "Wellington",
+      "major_cities": ["Auckland", "Christchurch", "Hamilton", "Tauranga"]
+    },
+    {
+      "name": "Nicaragua",
+      "aliases": ["Republic of Nicaragua"],
+      "nationality": "Nicaraguan",
+      "capital": "Managua",
+      "major_cities": ["León", "Masaya", "Tipitapa", "Estelí"]
+    },
+    {
+      "name": "Niger",
+      "aliases": ["Republic of Niger"],
+      "nationality": "Nigerien",
+      "capital": "Niamey",
+      "major_cities": ["Zinder", "Maradi", "Agadez", "Tahoua"]
+    },
+    {
+      "name": "Nigeria",
+      "aliases": ["Federal Republic of Nigeria"],
+      "nationality": "Nigerian",
+      "capital": "Abuja",
+      "major_cities": ["Lagos", "Kano", "Ibadan", "Benin City"]
+    },
+    {
+      "name": "North Macedonia",
+      "aliases": ["Republic of North Macedonia"],
+      "nationality": "Macedonian",
+      "capital": "Skopje",
+      "major_cities": ["Bitola", "Kumanovo", "Prilep", "Tetovo"]
+    },
+    {
+      "name": "Norway",
+      "aliases": ["Kingdom of Norway"],
+      "nationality": "Norwegian",
+      "capital": "Oslo",
+      "major_cities": ["Bergen", "Trondheim", "Stavanger", "Drammen"]
+    },
+    {
+      "name": "Oman",
+      "aliases": ["Sultanate of Oman"],
+      "nationality": "Omani",
+      "capital": "Muscat",
+      "major_cities": ["Seeb", "Salalah", "Bawshar", "Sohar"]
+    },
+    {
+      "name": "Pakistan",
+      "aliases": ["Islamic Republic of Pakistan"],
+      "nationality": "Pakistani",
+      "capital": "Islamabad",
+      "major_cities": ["Karachi", "Lahore", "Faisalabad", "Rawalpindi"]
+    },
+    {
+      "name": "Palau",
+      "aliases": ["Republic of Palau"],
+      "nationality": "Palauan",
+      "capital": "Ngerulmud",
+      "major_cities": ["Koror", "Airai", "Melekeok", "Ngatpang"]
+    },
+    {
+      "name": "Panama",
+      "aliases": ["Republic of Panama"],
+      "nationality": "Panamanian",
+      "capital": "Panama City",
+      "major_cities": ["San Miguelito", "Tocumen", "David", "Arraiján"]
+    },
+    {
+      "name": "Papua New Guinea",
+      "aliases": ["Independent State of Papua New Guinea"],
+      "nationality": "Papua New Guinean",
+      "capital": "Port Moresby",
+      "major_cities": ["Lae", "Arawa", "Mount Hagen", "Popondetta"]
+    },
+    {
+      "name": "Paraguay",
+      "aliases": ["Republic of Paraguay"],
+      "nationality": "Paraguayan",
+      "capital": "Asunción",
+      "major_cities": ["Ciudad del Este", "San Lorenzo", "Luque", "Capiatá"]
+    },
+    {
+      "name": "Peru",
+      "aliases": ["Republic of Peru"],
+      "nationality": "Peruvian",
+      "capital": "Lima",
+      "major_cities": ["Arequipa", "Trujillo", "Chiclayo", "Iquitos"]
+    },
+    {
+      "name": "Philippines",
+      "aliases": ["Republic of the Philippines"],
+      "nationality": "Filipino",
+      "capital": "Manila",
+      "major_cities": ["Quezon City", "Davao City", "Calamba", "Cebu City"]
+    },
+    {
+      "name": "Poland",
+      "aliases": ["Republic of Poland"],
+      "nationality": "Polish",
+      "capital": "Warsaw",
+      "major_cities": ["Kraków", "Łódź", "Wrocław", "Poznań"]
+    },
+    {
+      "name": "Portugal",
+      "aliases": ["Portuguese Republic"],
+      "nationality": "Portuguese",
+      "capital": "Lisbon",
+      "major_cities": ["Porto", "Vila Nova de Gaia", "Braga", "Amadora"]
+    },
+    {
+      "name": "Qatar",
+      "aliases": ["State of Qatar"],
+      "nationality": "Qatari",
+      "capital": "Doha",
+      "major_cities": ["Al Rayyan", "Al Wakrah", "Al Khor", "Mesaieed"]
+    },
+    {
+      "name": "Romania",
+      "aliases": [],
+      "nationality": "Romanian",
+      "capital": "Bucharest",
+      "major_cities": ["Cluj-Napoca", "Timișoara", "Iași", "Constanța"]
+    },
+    {
+      "name": "Russia",
+      "aliases": ["Russian Federation"],
+      "nationality": "Russian",
+      "capital": "Moscow",
+      "major_cities": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Nizhny Novgorod"]
+    },
+    {
+      "name": "Rwanda",
+      "aliases": ["Republic of Rwanda"],
+      "nationality": "Rwandan",
+      "capital": "Kigali",
+      "major_cities": ["Butare", "Gitarama", "Ruhengeri", "Gisenyi"]
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "aliases": ["Federation of Saint Christopher and Nevis"],
+      "nationality": "Kittitian, Nevisian",
+      "capital": "Basseterre",
+      "major_cities": ["Charlestown"]
+    },
+    {
+      "name": "Saint Lucia",
+      "aliases": [],
+      "nationality": "Saint Lucian",
+      "capital": "Castries",
+      "major_cities": ["Gros Islet", "Vieux Fort", "Micoud", "Soufrière"]
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "aliases": [],
+      "nationality": "Vincentian",
+      "capital": "Kingstown",
+      "major_cities": ["Kingstown Park", "Georgetown", "Barrouallie", "Layou"]
+    },
+    {
+      "name": "Samoa",
+      "aliases": ["Independent State of Samoa"],
+      "nationality": "Samoan",
+      "capital": "Apia",
+      "major_cities": ["Vaitele", "Faleula", "Siusega", "Magiagi"]
+    },
+    {
+      "name": "San Marino",
+      "aliases": ["Most Serene Republic of San Marino"],
+      "nationality": "Sammarinese",
+      "capital": "San Marino",
+      "major_cities": ["Dogana", "Borgo Maggiore", "Serravalle", "Domagnano"]
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "aliases": ["Democratic Republic of São Tomé and Príncipe"],
+      "nationality": "São Toméan",
+      "capital": "São Tomé",
+      "major_cities": ["Santo António", "Neves", "Santana", "Trindade"]
+    },
+    {
+      "name": "Saudi Arabia",
+      "aliases": ["Kingdom of Saudi Arabia"],
+      "nationality": ["Saudi Arabian", "Saudi"],
+      "capital": "Riyadh",
+      "major_cities": ["Jeddah", "Mecca", "Medina", "Madina", "Dammam"]
+    },
+    {
+      "name": "Senegal",
+      "aliases": ["Republic of Senegal"],
+      "nationality": "Senegalese",
+      "capital": "Dakar",
+      "major_cities": ["Touba", "Thiès", "Kaolack", "Mbour"]
+    },
+    {
+      "name": "Serbia",
+      "aliases": ["Republic of Serbia"],
+      "nationality": "Serbian",
+      "capital": "Belgrade",
+      "major_cities": ["Novi Sad", "Niš", "Kragujevac", "Subotica"]
+    },
+    {
+      "name": "Seychelles",
+      "aliases": ["Republic of Seychelles"],
+      "nationality": "Seychellois",
+      "capital": "Victoria",
+      "major_cities": ["Anse Boileau", "Cascade", "Anse Royale", "Takamaka"]
+    },
+    {
+      "name": "Sierra Leone",
+      "aliases": ["Republic of Sierra Leone"],
+      "nationality": "Sierra Leonean",
+      "capital": "Freetown",
+      "major_cities": ["Bo", "Kenema", "Makeni", "Koidu"]
+    },
+    {
+      "name": "Singapore",
+      "aliases": ["Republic of Singapore"],
+      "nationality": "Singaporean",
+      "capital": "Singapore",
+      "major_cities": []
+    },
+    {
+      "name": "Slovakia",
+      "aliases": ["Slovak Republic"],
+      "nationality": "Slovak",
+      "capital": "Bratislava",
+      "major_cities": ["Košice", "Prešov", "Žilina", "Nitra"]
+    },
+    {
+      "name": "Slovenia",
+      "aliases": ["Republic of Slovenia"],
+      "nationality": "Slovenian",
+      "capital": "Ljubljana",
+      "major_cities": ["Maribor", "Koper", "Celje", "Kranj"]
+    },
+    {
+      "name": "Solomon Islands",
+      "aliases": [],
+      "nationality": "Solomon Islander",
+      "capital": "Honiara",
+      "major_cities": ["Auki", "Gizo", "Kirakira", "Tulagi"]
+    },
+    {
+      "name": "Somalia",
+      "aliases": ["Federal Republic of Somalia"],
+      "nationality": "Somali",
+      "capital": "Mogadishu",
+      "major_cities": ["Hargeisa", "Bosaso", "Kismayo", "Galkayo"]
+    },
+    {
+      "name": "South Africa",
+      "aliases": ["Republic of South Africa"],
+      "nationality": "South African",
+      "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+      "major_cities": ["Johannesburg", "Durban", "Port Elizabeth", "Soweto"]
+    },
+    {
+      "name": "South Sudan",
+      "aliases": ["Republic of South Sudan"],
+      "nationality": "South Sudanese",
+      "capital": "Juba",
+      "major_cities": ["Wau", "Malakal", "Yei", "Aweil"]
+    },
+    {
+      "name": "Spain",
+      "aliases": ["Kingdom of Spain"],
+      "nationality": "Spanish",
+      "capital": "Madrid",
+      "major_cities": ["Barcelona", "Valencia", "Seville", "Zaragoza"]
+    },
+    {
+      "name": "Sri Lanka",
+      "aliases": ["Democratic Socialist Republic of Sri Lanka"],
+      "nationality": "Sri Lankan",
+      "capital": "Sri Jayawardenepura Kotte (administrative), Colombo (commercial)",
+      "major_cities": ["Galle", "Kandy", "Jaffna", "Negombo"]
+    },
+    {
+      "name": "Sudan",
+      "aliases": ["Republic of the Sudan"],
+      "nationality": "Sudanese",
+      "capital": "Khartoum",
+      "major_cities": ["Omdurman", "Nyala", "Port Sudan", "Kassala"]
+    },
+    {
+      "name": "Suriname",
+      "aliases": ["Republic of Suriname"],
+      "nationality": "Surinamese",
+      "capital": "Paramaribo",
+      "major_cities": ["Lelydorp", "Nieuw Nickerie", "Moengo", "Kwakoegron"]
+    },
+    {
+      "name": "Sweden",
+      "aliases": ["Kingdom of Sweden"],
+      "nationality": "Swedish",
+      "capital": "Stockholm",
+      "major_cities": ["Gothenburg", "Malmö", "Uppsala", "Västerås"]
+    },
+    {
+      "name": "Switzerland",
+      "aliases": ["Swiss Confederation"],
+      "nationality": "Swiss",
+      "capital": "Bern",
+      "major_cities": ["Zurich", "Geneva", "Basel", "Lausanne"]
+    },
+    {
+      "name": "Syria",
+      "aliases": ["Syrian Arab Republic"],
+      "nationality": "Syrian",
+      "capital": "Damascus",
+      "major_cities": ["Aleppo", "Homs", "Latakia", "Hama"]
+    },
+    {
+      "name": "Taiwan",
+      "aliases": ["Republic of China"],
+      "nationality": "Taiwanese",
+      "capital": "Taipei",
+      "major_cities": ["Kaohsiung", "Taichung", "Tainan", "Taoyuan"]
+    },
+    {
+      "name": "Tajikistan",
+      "aliases": ["Republic of Tajikistan"],
+      "nationality": "Tajik",
+      "capital": "Dushanbe",
+      "major_cities": ["Khujand", "Kulob", "Qurghonteppa", "Istaravshan"]
+    },
+    {
+      "name": "Tanzania",
+      "aliases": ["United Republic of Tanzania"],
+      "nationality": "Tanzanian",
+      "capital": "Dodoma (official), Dar es Salaam (de facto)",
+      "major_cities": ["Mwanza", "Arusha", "Mbeya", "Morogoro"]
+    },
+    {
+      "name": "Thailand",
+      "aliases": ["Kingdom of Thailand"],
+      "nationality": "Thai",
+      "capital": "Bangkok",
+      "major_cities": ["Chiang Mai", "Nakhon Ratchasima", "Udon Thani", "Hat Yai"]
+    },
+    {
+      "name": "Timor-Leste",
+      "aliases": ["Democratic Republic of Timor-Leste"],
+      "nationality": "Timorese",
+      "capital": "Dili",
+      "major_cities": ["Baucau", "Maliana", "Suai", "Liquiçá"]
+    },
+    {
+      "name": "Togo",
+      "aliases": ["Togolese Republic"],
+      "nationality": "Togolese",
+      "capital": "Lomé",
+      "major_cities": ["Sokodé", "Kara", "Kpalimé", "Atakpamé"]
+    },
+    {
+      "name": "Tonga",
+      "aliases": ["Kingdom of Tonga"],
+      "nationality": "Tongan",
+      "capital": "Nukuʻalofa",
+      "major_cities": ["Neiafu", "Pangai", "Haveluloto", "Ohonua"]
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "aliases": ["Republic of Trinidad and Tobago"],
+      "nationality": "Trinidadian, Tobagonian",
+      "capital": "Port of Spain",
+      "major_cities": ["San Fernando", "Arima", "Chaguanas", "Scarborough"]
+    },
+    {
+      "name": "Tunisia",
+      "aliases": ["Republic of Tunisia"],
+      "nationality": "Tunisian",
+      "capital": "Tunis",
+      "major_cities": ["Sfax", "Sousse", "Ettadhamen", "Kairouan"]
+    },
+    {
+      "name": "Turkey",
+      "aliases": ["Republic of Türkiye"],
+      "nationality": "Turkish",
+      "capital": "Ankara",
+      "major_cities": ["Istanbul", "Izmir", "Bursa", "Antalya"]
+    },
+    {
+      "name": "Turkmenistan",
+      "aliases": [],
+      "nationality": "Turkmen",
+      "capital": "Ashgabat",
+      "major_cities": ["Turkmenabat", "Daşoguz", "Mary", "Balkanabat"]
+    },
+    {
+      "name": "Tuvalu",
+      "aliases": [],
+      "nationality": "Tuvaluan",
+      "capital": "Funafuti",
+      "major_cities": ["Asau", "Tanrake", "Toga"]
+    },
+    {
+      "name": "Uganda",
+      "aliases": ["Republic of Uganda"],
+      "nationality": "Ugandan",
+      "capital": "Kampala",
+      "major_cities": ["Gulu", "Lira", "Mbarara", "Jinja"]
+    },
+    {
+      "name": "Ukraine",
+      "aliases": [],
+      "nationality": "Ukrainian",
+      "capital": "Kyiv",
+      "major_cities": ["Kharkiv", "Odesa", "Dnipro", "Donetsk"]
+    },
+    {
+      "name": "United Arab Emirates",
+      "aliases": [],
+      "nationality": "Emirati",
+      "capital": "Abu Dhabi",
+      "major_cities": ["Al Ain", "Ajman", "Dubai", "Fujairah", "Ras Al Khaimah", "Sharjah"]
+    },
+    {
+      "name": "United Kingdom",
+      "aliases": ["United Kingdom of Great Britain and Northern Ireland", "U.K.", "UK"],
+      "nationality": ["British", "English", "Scottish", "Welsh"],
+      "capital": "London",
+      "major_cities": ["Birmingham", "Cardiff", "Edinburgh", "Glasgow", "Liverpool", "Manchester"]
+    },
+    {
+      "name": "United States",
+      "aliases": ["United States of America", "USA", "US of A", "U.S.", "America"],
+      "nationality": "American",
+      "capital": "Washington, D.C.",
+      "major_cities": ["New York City", "Los Angeles", "Chicago", "Houston", "Phoenix"],
+      "states": [
+        {"state_name": "Alabama", "abbreviation": "AL", "state_capital": "Montgomery", "nationality": "Alabamian"},
+        {"state_name": "Alaska", "abbreviation": "AK", "state_capital": "Juneau", "nationality": "Alaskan"},
+        {"state_name": "Arizona", "abbreviation": "AZ", "state_capital": "Phoenix", "nationality": "Arizonan"},
+        {"state_name": "Arkansas", "abbreviation": "AR", "state_capital": "Little Rock", "nationality": "Arkansan"},
+        {"state_name": "California", "abbreviation": "CA", "state_capital": "Sacramento", "nationality": "Californian"},
+        {"state_name": "Colorado", "abbreviation": "CO", "state_capital": "Denver", "nationality": "Coloradan"},
+        {"state_name": "Connecticut", "abbreviation": "CT", "state_capital": "Hartford", "nationality": "Connecticutian"},
+        {"state_name": "Delaware", "abbreviation": "DE", "state_capital": "Dover", "nationality": "Delawarean"},
+        {"state_name": "Florida", "abbreviation": "FL", "state_capital": "Tallahassee", "nationality": "Floridian"},
+        {"state_name": "Georgia", "abbreviation": "GA", "state_capital": "Atlanta", "nationality": "Georgian"},
+        {"state_name": "Hawaii", "abbreviation": "HI", "state_capital": "Honolulu", "nationality": "Hawaiian"},
+        {"state_name": "Idaho", "abbreviation": "ID", "state_capital": "Boise", "nationality": "Idahoan"},
+        {"state_name": "Illinois", "abbreviation": "IL", "state_capital": "Springfield", "nationality": "Illinoisan"},
+        {"state_name": "Indiana", "abbreviation": "IN", "state_capital": "Indianapolis", "nationality": "Indianan, Hoosier"},
+        {"state_name": "Iowa", "abbreviation": "IA", "state_capital": "Des Moines", "nationality": "Iowan"},
+        {"state_name": "Kansas", "abbreviation": "KS", "state_capital": "Topeka", "nationality": "Kansan"},
+        {"state_name": "Kentucky", "abbreviation": "KY", "state_capital": "Frankfort", "nationality": "Kentuckian"},
+        {"state_name": "Louisiana", "abbreviation": "LA", "state_capital": "Baton Rouge", "nationality": "Louisianian"},
+        {"state_name": "Maine", "abbreviation": "ME", "state_capital": "Augusta", "nationality": "Mainer"},
+        {"state_name": "Maryland", "abbreviation": "MD", "state_capital": "Annapolis", "nationality": "Marylander"},
+        {"state_name": "Massachusetts", "abbreviation": "MA", "state_capital": "Boston", "nationality": "Massachusettsan, Bay Stater"},
+        {"state_name": "Michigan", "abbreviation": "MI", "state_capital": "Lansing", "nationality": "Michigander"},
+        {"state_name": "Minnesota", "abbreviation": "MN", "state_capital": "Saint Paul", "nationality": "Minnesotan"},
+        {"state_name": "Mississippi", "abbreviation": "MS", "state_capital": "Jackson", "nationality": "Mississippian"},
+        {"state_name": "Missouri", "abbreviation": "MO", "state_capital": "Jefferson City", "nationality": "Missourian"},
+        {"state_name": "Montana", "abbreviation": "MT", "state_capital": "Helena", "nationality": "Montanan"},
+        {"state_name": "Nebraska", "abbreviation": "NE", "state_capital": "Lincoln", "nationality": "Nebraskan"},
+        {"state_name": "Nevada", "abbreviation": "NV", "state_capital": "Carson City", "nationality": "Nevadan"},
+        {"state_name": "New Hampshire", "abbreviation": "NH", "state_capital": "Concord", "nationality": "New Hampshirite"},
+        {"state_name": "New Jersey", "abbreviation": "NJ", "state_capital": "Trenton", "nationality": "New Jerseyan"},
+        {"state_name": "New Mexico", "abbreviation": "NM", "state_capital": "Santa Fe", "nationality": "New Mexican"},
+        {"state_name": "New York", "abbreviation": "NY", "state_capital": "Albany", "nationality": "New Yorker"},
+        {"state_name": "North Carolina", "abbreviation": "NC", "state_capital": "Raleigh", "nationality": "North Carolinian"},
+        {"state_name": "North Dakota", "abbreviation": "ND", "state_capital": "Bismarck", "nationality": "North Dakotan"},
+        {"state_name": "Ohio", "abbreviation": "OH", "state_capital": "Columbus", "nationality": "Ohioan"},
+        {"state_name": "Oklahoma", "abbreviation": "OK", "state_capital": "Oklahoma City", "nationality": "Oklahoman"},
+        {"state_name": "Oregon", "abbreviation": "OR", "state_capital": "Salem", "nationality": "Oregonian"},
+        {"state_name": "Pennsylvania", "abbreviation": "PA", "state_capital": "Harrisburg", "nationality": "Pennsylvanian"},
+        {"state_name": "Rhode Island", "abbreviation": "RI", "state_capital": "Providence", "nationality": "Rhode Islander"},
+        {"state_name": "South Carolina", "abbreviation": "SC", "state_capital": "Columbia", "nationality": "South Carolinian"},
+        {"state_name": "South Dakota", "abbreviation": "SD", "state_capital": "Pierre", "nationality": "South Dakotan"},
+        {"state_name": "Tennessee", "abbreviation": "TN", "state_capital": "Nashville", "nationality": "Tennessean"},
+        {"state_name": "Texas", "abbreviation": "TX", "state_capital": "Austin", "nationality": "Texan"},
+        {"state_name": "Utah", "abbreviation": "UT", "state_capital": "Salt Lake City", "nationality": "Utahn"},
+        {"state_name": "Vermont", "abbreviation": "VT", "state_capital": "Montpelier", "nationality": "Vermonter"},
+        {"state_name": "Virginia", "abbreviation": "VA", "state_capital": "Richmond", "nationality": "Virginian"},
+        {"state_name": "Washington", "abbreviation": "WA", "state_capital": "Olympia", "nationality": "Washingtonian"},
+        {"state_name": "West Virginia", "abbreviation": "WV", "state_capital": "Charleston", "nationality": "West Virginian"},
+        {"state_name": "Wisconsin", "abbreviation": "WI", "state_capital": "Madison", "nationality": "Wisconsinite"},
+        {"state_name": "Wyoming", "abbreviation": "WY", "state_capital": "Cheyenne", "nationality": "Wyomingite"}
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "aliases": ["Oriental Republic of Uruguay"],
+      "nationality": "Uruguayan",
+      "capital": "Montevideo",
+      "major_cities": ["Salto", "Paysandú", "Las Piedras", "Rivera"]
+    },
+    {
+      "name": "Uzbekistan",
+      "aliases": ["Republic of Uzbekistan"],
+      "nationality": "Uzbek",
+      "capital": "Tashkent",
+      "major_cities": ["Samarkand", "Namangan", "Andijan", "Bukhara"]
+    },
+    {
+      "name": "Vanuatu",
+      "aliases": ["Republic of Vanuatu"],
+      "nationality": "Ni-Vanuatu",
+      "capital": "Port Vila",
+      "major_cities": ["Luganville", "Norsup", "Port-Olry", "Lakatoro"]
+    },
+    {
+      "name": "Venezuela",
+      "aliases": ["Bolivarian Republic of Venezuela"],
+      "nationality": "Venezuelan",
+      "capital": "Caracas",
+      "major_cities": ["Maracaibo", "Valencia", "Barquisimeto", "Ciudad Guayana"]
+    },
+    {
+      "name": "Vietnam",
+      "aliases": ["Socialist Republic of Vietnam"],
+      "nationality": "Vietnamese",
+      "capital": "Hanoi",
+      "major_cities": ["Ho Chi Minh City", "Da Nang", "Hai Phong", "Can Tho"]
+    },
+    {
+      "name": "Yemen",
+      "aliases": ["Republic of Yemen"],
+      "nationality": "Yemeni",
+      "capital": "Sana'a",
+      "major_cities": ["Aden", "Taiz", "Al Hudaydah", "Ibb"]
+    },
+    {
+      "name": "Zambia",
+      "aliases": ["Republic of Zambia"],
+      "nationality": "Zambian",
+      "capital": "Lusaka",
+      "major_cities": ["Kitwe", "Ndola", "Kabwe", "Chingola"]
+    },
+    {
+      "name": "Zimbabwe",
+      "aliases": ["Republic of Zimbabwe"],
+      "nationality": "Zimbabwean",
+      "capital": "Harare",
+      "major_cities": ["Bulawayo", "Chitungwiza", "Mutare", "Gweru"]
+    }
+  ]
+}
